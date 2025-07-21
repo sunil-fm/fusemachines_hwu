@@ -7,7 +7,7 @@ from src.decorators import log_execution, logger
 
 
 class TemperatureConverter:
-    """A class for converting between temperature units with validation."""
+    """A class for converting between temperature units with validation test."""
 
     @staticmethod
     @log_execution
